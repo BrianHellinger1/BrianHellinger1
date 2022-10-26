@@ -10,8 +10,9 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/Brian Hellinger>-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brian-hellinger01[![Medium Badge](https://img.shields.io/badge/Brian Hellinger-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bphellinger)](https://medium.com/@bphellinger)
-[![Gmail Badge](https://img.shields.io/badge/-<bphellinger@gmail.com>-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<ENTER YOUR GMAIL ADDRESS>)](mailto:<ENTER YOUR GMAIL ADDRESS>)
+[![Linkedin Badge](https://img.shields.io/badge/-Brian Hellinger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brian-hellinger01)](www.linkedin.com/in/brian-hellinger01)
+[![Medium Badge](https://img.shields.io/badge/Brian Hellinger-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bphellinger)](https://medium.com/@bphellinger)
+[![Gmail Badge](https://img.shields.io/badge/-bphellinger@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bphellinger@gmail.com)](mailto:bphellinger@gmail.com)
 
 ## ⚡ Technologies
 
@@ -28,8 +29,8 @@ Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=<ENTER YOUR GITHUB USERNAME>&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ENTER YOUR GITHUB USERNAME>&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=BrianHellinger1&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianHellinger1&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<ENTER YOUR GITHUB USERNAME>%2F<ENTER YOUR GITHUB USERNAME>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<ENTER YOUR GITHUB USERNAME>%2F<ENTER YOUR GITHUB USERNAME>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<ENTER YOUR GITHUB USERNAME>%2FBrianHellinger1&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=BrianHellinger1%2FBrianHellinger1)
