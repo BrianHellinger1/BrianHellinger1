@@ -33,4 +33,4 @@ Find out more about me & feel free to connect with me here:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianHellinger1&hide=TeX&layout=compact)
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<ENTER YOUR GITHUB USERNAME>%2FBrianHellinger1&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=BrianHellinger1%2FBrianHellinger1)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=BrianHellinger1%2FBrianHellinger1&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=BrianHellinger1%2FBrianHellinger1)
