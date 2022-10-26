@@ -4,14 +4,14 @@
 
 ### Hi there 👋
 
-<!-- Introduce yourself and give a brief introduction about yourself here.  Also include what tech you're interested in and what you are currently learning -->
+My names Brian Hellinger and I love anything Cloud or DevOps
 
 Find out more about me & feel free to connect with me here:
 
 <!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. For spaces in names, use %20 (e.g. Broadus%20Palmer) -->
 
-[![Linkedin Badge](https://img.shields.io/badge/-Brian Hellinger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brian-hellinger01)](www.linkedin.com/in/brian-hellinger01)
-[![Medium Badge](https://img.shields.io/badge/Brian Hellinger-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bphellinger)](https://medium.com/@bphellinger)
+[![Linkedin Badge](https://img.shields.io/badge/-Brian%20Hellinger-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/brian-hellinger01)](www.linkedin.com/in/brian-hellinger01)
+[![Medium Badge](https://img.shields.io/badge/Brian%20Hellinger-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bphellinger)](https://medium.com/@bphellinger)
 [![Gmail Badge](https://img.shields.io/badge/-bphellinger@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bphellinger@gmail.com)](mailto:bphellinger@gmail.com)
 
 ## ⚡ Technologies
