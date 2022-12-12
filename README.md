@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-My names Brian Hellinger and I love anything Cloud or DevOps. I'm constantly learning new technologies in order to make the technology space more efficient. Let's connect via LinkedIn which is listed below. Glad you could stop by. 
+My names Brian Hellinger and I love anything Cloud or DevOps. I'm constantly learning new technologies in order to make the technology space more efficient. Let's connect via LinkedIn which is listed below. Glad you could stop by. Follow me on my medium page as well as I create articles on the new topics of information I'm learning https://medium.com/@bphellinger
 
 Find out more about me & feel free to connect with me here:
 
